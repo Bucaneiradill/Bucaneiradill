@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 <div>
   
 </div>
-  <img align="center" height="500em" src="https://media1.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif?cid=ecf05e475p1h46ij5zcs4f41gssyh321w0k6ro45lddmtkmi&rid=giphy.gif&ct=g"/>
+  <img align="center" height="550em" src="https://media1.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif?cid=ecf05e475p1h46ij5zcs4f41gssyh321w0k6ro45lddmtkmi&rid=giphy.gif&ct=g"/>
 <div>
   
   ##
   
   <a href="https://github.com/rafaballerini">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Bucaneiradill&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bucaneiradill&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Bucaneiradill&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bucaneiradill&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
   ##
