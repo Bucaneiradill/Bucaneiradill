@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   ##
  
 <div> 
-  <a href="https://twitter.com/Bucaneira_Dill" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%FF1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <!--<a href="https://twitter.com/Bucaneira_Dill" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%FF1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>-->
   <a href="https://www.instagram.com/lolavsworld" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%FFC131A6?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/oliveira-heloisa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%FF0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
