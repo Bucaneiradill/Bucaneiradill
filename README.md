@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
           
 <div style="display: flex; justify-content: space-between;">
-  Eu me chamo Heloisa e sou estudante de Sistemas de Informação, me especializando em desenvolvimento mobile, com foco nas principais tecnologias a seguir:
+  Eu me chamo Heloisa e sou estudante de Engenharia de Software, me especializando em desenvolvimento mobile, com foco nas principais tecnologias a seguir:
   <br><br>
   <img style="height: 50px; width: 50px; margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
   <img style="height: 50px; width: 50px; margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
